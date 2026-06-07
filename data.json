@@ -1,0 +1,26 @@
+[
+    {
+        "name": "kalpana",
+        "marks": "22",
+        "attendance": "80",
+        "result": "Fail"
+    },
+    {
+        "name": "SAMYALUU",
+        "marks": "70",
+        "attendance": "80",
+        "result": "Pass"
+    },
+    {
+        "name": "NARENDRA",
+        "marks": "90",
+        "attendance": "60",
+        "result": "Pass"
+    },
+    {
+        "name": "MADHAV",
+        "marks": "100",
+        "attendance": "100",
+        "result": "Pass"
+    }
+]
